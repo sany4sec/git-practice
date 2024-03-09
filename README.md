@@ -1,3 +1,3 @@
-# git-practice
+# Git-Practice for learning git
 
-Devoloper - Rabius Sany
+Developer - Rabius Sany
